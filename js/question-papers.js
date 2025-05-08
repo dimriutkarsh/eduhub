@@ -12,7 +12,7 @@ const questionPapers = [
     type: 'final',
     typeLabel: 'Final Exam',
     size: '2.4 MB',
-    downloadUrl: 'http://localhost:8000/Phyiscspaper1.pdf',
+    downloadUrl: './files/question_papers/Physicspaper1/',
     previewUrl: 'https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
   },
   {
